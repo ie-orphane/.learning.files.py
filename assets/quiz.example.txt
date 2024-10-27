@@ -1,0 +1,183 @@
+
+ID   : ef15e330
+NAME : Ahmed Alaoui
+DATE : Sun 27, Oct 2024
+
+
+What is the capital of ?
+
+
+1. Colombia
+    [ ] Bogotá
+    [ ] Brazzaville
+    [ ] Dili
+    [ ] Jerusalem
+
+
+2. Syria
+    [ ] Damascus
+    [ ] Lima
+    [ ] Kinshasa
+    [ ] Sucre
+
+
+3. Jamaica
+    [ ] Kingston
+    [ ] Panama City
+    [ ] Port of Spain
+    [ ] Vaduz
+
+
+4. Tuvalu
+    [ ] Funafuti
+    [ ] Vilnius
+    [ ] Vienna
+    [ ] Mexico City
+
+
+5. Qatar
+    [ ] Doha
+    [ ] Basseterre
+    [ ] Sana'a
+    [ ] Yaren District
+
+
+6. Mali
+    [ ] Bamako
+    [ ] Sarajevo
+    [ ] Antananarivo
+    [ ] Moroni
+
+
+7. Croatia
+    [ ] Zagreb
+    [ ] Kingstown
+    [ ] Dushanbe
+    [ ] Manila
+
+
+8. Switzerland
+    [ ] Bern
+    [ ] London
+    [ ] Tunis
+    [ ] Quito
+
+
+9. Cuba
+    [ ] Havana
+    [ ] Belgrade
+    [ ] Majuro
+    [ ] Maseru
+
+
+10. Rwanda
+    [ ] Kigali
+    [ ] Guatemala City
+    [ ] Baghdad
+    [ ] Lusaka
+
+
+11. Guinea-Bissau
+    [ ] Bissau
+    [ ] Riyadh
+    [ ] Andorra la Vella
+    [ ] Nairobi
+
+
+12. Niger
+    [ ] Niamey
+    [ ] Saint John's
+    [ ] Tehran
+    [ ] Thimphu
+
+
+13. Senegal
+    [ ] Dakar
+    [ ] Beirut
+    [ ] Nur-Sultan
+    [ ] Freetown
+
+
+14. Japan
+    [ ] Tokyo
+    [ ] Belmopan
+    [ ] Taipei
+    [ ] Berlin
+
+
+15. Morocco
+    [ ] Rabat
+    [ ] Cairo
+    [ ] Sofia
+    [ ] Ouagadougou
+
+
+16. South Korea
+    [ ] Seoul
+    [ ] Juba
+    [ ] Naypyidaw
+    [ ] Yerevan
+
+
+17. Honduras
+    [ ] Tegucigalpa
+    [ ] Victoria
+    [ ] Asunción
+    [ ] Athens
+
+
+18. Algeria
+    [ ] Algiers
+    [ ] Warsaw
+    [ ] Dublin
+    [ ] Mogadishu
+
+
+19. Thailand
+    [ ] Bangkok
+    [ ] Beijing
+    [ ] Montevideo
+    [ ] Bandar Seri Begawan
+
+
+20. North Macedonia
+    [ ] Skopje
+    [ ] Nicosia
+    [ ] Luanda
+    [ ] Moscow
+
+
+21. Tonga
+    [ ] Nukuʻalofa
+    [ ] Lilongwe
+    [ ] Monrovia
+    [ ] Prague
+
+
+22. Dominica
+    [ ] Roseau
+    [ ] Accra
+    [ ] Luxembourg City
+    [ ] Djibouti
+
+
+23. Slovakia
+    [ ] Bratislava
+    [ ] Buenos Aires
+    [ ] Oslo
+    [ ] Banjul
+
+
+24. Barbados
+    [ ] Bridgetown
+    [ ] Asmara
+    [ ] Managua
+    [ ] Monaco
+
+
+25. Fiji
+    [ ] Suva
+    [ ] Kampala
+    [ ] Kyiv
+    [ ] Amman
+

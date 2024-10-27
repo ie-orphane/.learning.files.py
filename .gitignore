@@ -1,5 +1,12 @@
+# Environments
 .env
 .venv
+env/
+venv/
+
+# Byte-compiled
 __pycache__/
+
+# Development
 quizes/
 quiz.py

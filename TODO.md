@@ -48,6 +48,7 @@ What is the capital of ?
 
 ### Note:
 
+- Allowed libraries: **`json`**, **`os`**, **`datetime`**, **`random`**, **`typing`**, and **`shutil`**.
 - You must work with **OOP**.
 - The quiz file will be created in **`assets/quizes/`** and named by **student id**.
 - The **`quizes`** directory should be **generated** every time the program runs.

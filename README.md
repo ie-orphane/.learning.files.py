@@ -24,18 +24,18 @@ On Windows, the root folder is named C:\ and is also called the C: drive. On OS 
 ```
 C:\
   |_Users
-	|_La7ya
-		  |_Documents
-			|_project.docx
+    |_La7ya
+      |_Documents
+        |_project.docx
 ```
 Figure 8-1: A file in a hierarchy of folders on **Windows**
 
 ```
 /
   |_Users
-	|_La7ya
-	  |_Documents
-		|_project.docx
+    |_La7ya
+      |_Documents
+        |_project.docx
 ```
 Figure 8-2: A file in a hierarchy of folders on **OS X** and **Linux**
 
@@ -105,7 +105,7 @@ Folders hireochy    Relative paths     Absolute paths
   /                  ../                 /
   |_foo (cwd)        ./                  /foo
     |_spam           ./spam              /foo/spam
-	  |_main.py      ./spam/main.py      /foo/spam/main.py
+      |_main.py      ./spam/main.py      /foo/spam/main.py
     |_README.md      ./README.md         /foo/README.md
   |_bar              ../bar              /bar
     |_spam.txt       ../bar/spam.txt     /bar/spam.txt
@@ -117,8 +117,10 @@ Figure 9: The relative paths for folders and files in the working directory **fo
 Once you have ways of handling file paths, you can then start gathering information about specific files and folders.
 
 The **os** library provides functions for finding the size of a file in bytes and the files and folders inside a given folder.
-	• Calling **os.path.getsize(path)** will return the size in bytes of the file in the path argument. 
-	• Calling **os.listdir(path)** will return a list of filename strings for each file in the path argument. (Note that this function is in the os module, not os.path.)
+
+- Calling **os.path.getsize(path)** will return the size in bytes of the file in the path argument.
+- Calling **os.listdir(path)** will return a list of filename strings for each file in the path argument. (Note that this function is in the os module, not os.path.)
+
 ```python
 >>> os.path.getsize('C:\\Windows\\System32\\calc.exe')
 27648
@@ -131,9 +133,10 @@ The **os** library provides functions for finding the size of a file in bytes an
 ### Checking Path Validity
 
 Many Python functions will crash with an error if you supply them with a path that does not exist. The os.path module provides functions to check whether a given path exists and whether it is a file or folder.
-	• Calling **os.path.exists(path)** will return True if the file or folder referred to in the argument exists and will return False if it does not exist.
-	• Calling **os.path.isfile(path)** will return True if the path argument exists and is a file and will return False otherwise.
-	• Calling **os.path.isdir(path)** will return True if the path argument exists and is a folder and will return False otherwise.
+
+- Calling **os.path.exists(path)** will return True if the file or folder referred to in the argument exists and will return False if it does not exist.
+- Calling **os.path.isfile(path)** will return True if the path argument exists and is a file and will return False otherwise.
+- Calling **os.path.isdir(path)** will return True if the path argument exists and is a folder and will return False otherwise.
 	
 ```python
 >>> os.path.exists('C:\\Windows')
@@ -239,8 +242,7 @@ Note that the write() method does not automatically add a newline character to t
 
 **JavaScript Object Notation** is a popular way to format data as a single **human-readable** string.
 
-JSON is the native way that JavaScript programs write their data structures and usually resembles what Python’s pprint()
-function would produce.
+JSON is the native way that JavaScript programs write their data structures and usually resembles what Python’s pprint() function would produce.
 
 You don’t need to know JavaScript in order to work with JSON-formatted data.
 
